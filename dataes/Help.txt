@@ -1,0 +1,37 @@
+
+	1- You must Use Numbers to move hero
+
+				!7   8   9$
+				 \  |  /
+				  \ | /
+				   \|/
+				    O
+				   /|\
+				  / | \
+				 /  |  \
+				!1   2   3$
+	
+	~----------------------------------------$
+	
+	2- You must Use Position For Hero Action
+	
+	First enter height then width
+	
+	for Example:	
+				!* is : 5 1
+				# is : 2 3
+				@ is : 1 5$
+	
+	  1 2 3 4 5
+	1         @
+	2     #    
+	3          
+	4          
+	5 *        
+		
+	~----------------------------------------$
+
+	3- You can enter !+$ in select hero menu
+	
+                   !-~-!-~-!-~-!-~-!-~-!-~-!-~-!-~-!-$			
+			
